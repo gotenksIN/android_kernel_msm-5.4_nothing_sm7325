@@ -1,30 +1,11 @@
 # NOTHING Phone(1) Release Note
-1. OS 1.5.2
-  - First release opensource of kernel and devicetree
+1. NOS 2.5.1.BETA1
+  - The opensource of the initial release of the open beta version
   - devicetree
      Both of repository has moved to vendor/qcom/proprietary/devicetree/msm-extra in NOTHING opensource.
      Please make sure the path of vendor_links is correct when you lunch and building image
       - vendor/qcom/proprietary/camera-devicetree/
       - vendor/qcom/proprietary/display-devicetree/display
-
-2. OS 1.5.3
-  - Update display and power driver
-
-3. OS 1.5.4
-  - Update to LTS_5.4.210
-
-4. OS 1.5.5
-  - Enable zram writeback kernel config
-
-5. OS 2.0.2
-  - Improve display driver
-  - Improve led driver
-
-6. OS 2.0.4
-  - No update
-
-7. OS 2.0.5
-  - No update
 
 # How do I submit patches to Android Common Kernels
 
